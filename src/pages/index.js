@@ -59,7 +59,7 @@ export default function () {
             <ChooseUs />
             <Experiences />
             <FeatureSlider />
-            <Pricing />
+            {/* <Pricing /> */}
             <Testimonials />
             <AvailableStore />
             <Faqs />
